@@ -38,8 +38,7 @@ verse-2
 BG 1.2: Sanjay said: On observing the Pandava army standing in military formation, King Duryodhan approached his teacher Dronacharya, and said the following words.
 verse-2
 
-
-
+  -continue
+  
 </body>
-
 </html>
