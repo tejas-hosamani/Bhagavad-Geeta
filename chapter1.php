@@ -1,10 +1,6 @@
 <html>
-<title></title>
-
+<title>BG Chapter 1</title>
 <body>
-    
-
-
 
 <h1>Chapter 1</h1>
 
