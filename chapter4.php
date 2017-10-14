@@ -431,29 +431,25 @@ verse-28
 verse-29
 अपाने जुह्वति प्राणं प्राणेऽपानं तथापरे |
 प्राणापानगती रुद्ध्वा प्राणायामपरायणा: || 29||
-
 verse-29
 apāne juhvati prāṇaṁ prāṇe ’pānaṁ tathāpare
 prāṇāpāna-gatī ruddhvā prāṇāyāma-parāyaṇāḥ
-
 verse-29
 apāne—the incoming breath; juhvati—offer; prāṇam—the outgoing breath; prāṇe—in the outgoing breath; apānam—incoming breath; tathā—also; apare—others; prāṇa—of the outgoing breath; apāna—and the incoming breath; gatī—movement; ruddhvā—blocking; prāṇa-āyāma—control of breath; parāyaṇāḥ—wholly devoted
 verse-29
+BG 4.29: Still others offer as sacrifice the outgoing breath in the incoming breath, while some offer the incoming breath into the outgoing breath. Some arduously practice prāṇāyām and restrain the incoming and outgoing breaths,
+  
 
 verse-30
 अपरे नियताहारा: प्राणान्प्राणेषु जुह्वति |
 सर्वेऽप्येते यज्ञविदो यज्ञक्षपितकल्मषा: || 30||
-
 verse-30
-
 apare niyatāhārāḥ prāṇān prāṇeṣhu juhvati
 sarve ’pyete yajña-vido yajña-kṣhapita-kalmaṣhāḥ
-
 verse-30
 apare—others; niyata—having controlled; āhārāḥ—food intake; prāṇān—life-breaths; prāṇeṣhu—life-energy; juhvati—sacrifice; sarve—all; api—also; ete—these; yajña-vidaḥ—knowers of sacrifices; yajña-kṣhapita—being cleansed by performances of sacrifices; kalmaṣhāḥ—of impurities
-
-verse-29-30
-BG 4.29-30: Still others offer as sacrifice the outgoing breath in the incoming breath, while some offer the incoming breath into the outgoing breath. Some arduously practice prāṇāyām and restrain the incoming and outgoing breaths, purely absorbed in the regulation of the life-energy. Yet others curtail their food intake and offer the breath into the life-energy as sacrifice. All these knowers of sacrifice are cleansed of their impurities as a result of such performances.
+verse-30
+BG 4.30: ..purely absorbed in the regulation of the life-energy. Yet others curtail their food intake and offer the breath into the life-energy as sacrifice. All these knowers of sacrifice are cleansed of their impurities as a result of such performances.
 verse-30
 
 verse-31
