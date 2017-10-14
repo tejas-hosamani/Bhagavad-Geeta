@@ -39,7 +39,6 @@ verse-2
 verse-3
 मम योनिर्महद् ब्रह्म तस्मिन्गर्भं दधाम्यहम् |
 सम्भव: सर्वभूतानां ततो भवति भारत || 3||
-
 verse-3
 mama yonir mahad brahma tasmin garbhaṁ dadhāmy aham
 sambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata
@@ -57,7 +56,6 @@ verse-3
 verse-4
 सर्वयोनिषु कौन्तेय मूर्तय: सम्भवन्ति या: |
 तासां ब्रह्म महद्योनिरहं बीजप्रद: पिता || 4||
-
 verse-4
 sarva-yoniṣhu kaunteya mūrtayaḥ sambhavanti yāḥ
 tāsāṁ brahma mahad yonir ahaṁ bīja-pradaḥ pitā
