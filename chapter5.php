@@ -114,28 +114,25 @@ verse-7
 verse-8
 नैव किञ्चित्करोमीति युक्तो मन्येत तत्ववित् |
 पश्यञ्शृण्वन्स्पृशञ्जिघ्रन्नश्नन्गच्छन्स्वपञ्श्वसन् || 8||
-
 verse-8
 naiva kiñchit karomīti yukto manyeta tattva-vit
 paśhyañ śhṛiṇvan spṛiśhañjighrann aśhnangachchhan svapañśhvasan
-
 verse-8
 na—not; eva—certainly; kiñchit—anything; karomi—I do; iti—thus; yuktaḥ—steadfast in karm yog; manyeta—thinks; tattva-vit—one who knows the truth; paśhyan—seeing; śhṛiṇvan—hearing; spṛiśhan—touching; jighran—smelling; aśhnan—eating; gachchhan—moving; svapan—sleeping; śhvasan—breathing;
+verse-8
+BG 5.8: Those steadfast in this karm yog, always think, “I am not the doer,” even while engaged in seeing, hearing, touching, smelling, moving, sleeping, breathing,
 verse-8
 
 verse-9
 प्रलपन्विसृजन्गृह्ण्न्नुन्मिषन्निमिषन्नपि |
 इन्द्रियाणीन्द्रियार्थेषु वर्तन्त इति धारयन् || 9||
-
 verse-9
 pralapan visṛijan gṛihṇann unmiṣhan nimiṣhann api
 indriyāṇīndriyārtheṣhu vartanta iti dhārayan
-
 verse-9
- pralapan—talking; visṛijan—giving up; gṛihṇan—accepting; unmiṣhan—opening (the eyes); nimiṣhan—closing (the eyes); api—although; indriyāṇi—the senses; indriya-artheṣhu—in sense-objects; vartante—moving; iti—thus; dhārayan—convinced
- 
+pralapan—talking; visṛijan—giving up; gṛihṇan—accepting; unmiṣhan—opening (the eyes); nimiṣhan—closing (the eyes); api—although; indriyāṇi—the senses; indriya-artheṣhu—in sense-objects; vartante—moving; iti—thus; dhārayan—convinced
 verse-9
-BG 5.8-9: Those steadfast in this karm yog, always think, “I am not the doer,” even while engaged in seeing, hearing, touching, smelling, moving, sleeping, breathing, speaking, excreting, and grasping, and opening or closing the eyes. With the light of divine knowledge, they see that it is only the material senses that are moving amongst their objects.
+BG 5.9: ..speaking, excreting, and grasping, and opening or closing the eyes. With the light of divine knowledge, they see that it is only the material senses that are moving amongst their objects.
 verse-9
 
 verse-10
@@ -411,30 +408,27 @@ verse-26
 verse-27
 स्पर्शान्कृत्वा बहिर्बाह्यांश्चक्षुश्चैवान्तरे भ्रुवो: |
 प्राणापानौ समौ कृत्वा नासाभ्यन्तरचारिणौ || 27||
-
 verse-27
 sparśhān kṛitvā bahir bāhyānśh chakṣhuśh chaivāntare bhruvoḥ
 prāṇāpānau samau kṛitvā nāsābhyantara-chāriṇau
-
 verse-27
 sparśhān—contacts (through senses); kṛitvā—keeping; bahiḥ—outside; bāhyān—external; chakṣhuḥ—eyes; cha—and; eva—certainly; antare—between; bhruvoḥ—of the eyebrows; prāṇa-apānau—the outgoing and incoming breaths; samau—equal; kṛitvā—keeping; nāsa-abhyantara—within the nostrils; chāriṇau—moving; 
 verse-27
+BG 5.27: Shutting out all thoughts of external enjoyment, with the gaze fixed on the space between the eye-brows, equalizing the flow of the incoming and outgoing breath in the nostrils,
+verse-27
+
 
 verse-28
 यतेन्द्रियमनोबुद्धिर्मुनिर्मोक्षपरायण: |
 विगतेच्छाभयक्रोधो य: सदा मुक्त एव स: || 28||
-
 verse-28
 yatendriya-mano-buddhir munir mokṣha-parāyaṇaḥ
 vigatechchhā-bhaya-krodho yaḥ sadā mukta eva saḥ
-
 verse-28
 yata—controlled; indriya—senses; manaḥ—mind; buddhiḥ—intellect; muniḥ—the sage; mokṣha—liberation; parāyaṇaḥ—dedicated; vigata—free; ichchhā—desires; bhaya—fear; krodhaḥ—anger; yaḥ—who; sadā—always; muktaḥ—liberated; eva—certainly; saḥ—that person
-
-
 verse-28
-BG 5.27-28: Shutting out all thoughts of external enjoyment, with the gaze fixed on the space between the eye-brows, equalizing the flow of the incoming and outgoing breath in the nostrils, and thus controlling the senses, mind, and intellect, the sage who becomes free from desire and fear, always lives in freedom.
-verse-27-28
+BG 5.28: ..and thus controlling the senses, mind, and intellect, the sage who becomes free from desire and fear, always lives in freedom.
+verse-28
 
 
 
