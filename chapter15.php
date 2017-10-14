@@ -44,13 +44,11 @@ Verse-3
 नान्तो न चादिर्न च सम्प्रतिष्ठा |
 अश्वत्थमेनं सुविरूढमूल
 मसङ्गशस्त्रेण दृढेन छित्वा || 3||
-
 Verse-3
 na rūpam asyeha tathopalabhyate
 nānto na chādir na cha sampratiṣhṭhā
 aśhvattham enaṁ su-virūḍha-mūlam
 asaṅga-śhastreṇa dṛiḍhena chhittvā
-
 Verse-3
 na—not; rūpam—form; asya—of this; iha—in this world; tathā—as such; upalabhyate—is perceived; na—neither; antaḥ—end; na—nor; cha—also; ādiḥ—beginning; na—never; cha—also; sampratiṣhṭhā—the basis; aśhvattham—sacred fig tree; enam—this; su-virūḍha-mūlam—deep-rooted; asaṅga-śhastreṇa—by the axe of detachment; dṛiḍhena—strong; chhittvā—having cut down;
 Verse-3
@@ -64,7 +62,6 @@ Verse-4
 यस्मिन्गता न निवर्तन्ति भूय: |
 तमेव चाद्यं पुरुषं प्रपद्ये
 यत: प्रवृत्ति: प्रसृता पुराणी || 4||
-
 Verse-4
 tataḥ padaṁ tat parimārgitavyaṁ
 yasmin gatā na nivartanti bhūyaḥ
@@ -83,7 +80,6 @@ Verse-5
 अध्यात्मनित्या विनिवृत्तकामा: |
 द्वन्द्वैर्विमुक्ता: सुखदु:खसंज्ञै
 र्गच्छन्त्यमूढा: पदमव्ययं तत् || 5||
-
 Verse-5
 nirmāna-mohā jita-saṅga-doṣhā
 adhyātma-nityā vinivṛitta-kāmāḥ
